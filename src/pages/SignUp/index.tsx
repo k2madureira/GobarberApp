@@ -94,7 +94,6 @@ const SignUp: React.FC = () => {
             <Form ref={formRef} onSubmit={handleSubmit}>
               <Input
                 autoCapitalize="words"
-                keyboardType="default"
                 name="name"
                 icon="user"
                 placeholder="Nome"

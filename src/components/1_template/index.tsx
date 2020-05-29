@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container } from './styles';
 
-const Input: React.FC = () => <Container />;
+const YOUR_COMPONENT_NAME: React.FC = () => <Container />;
 
-export default Input;
+export default YOUR_COMPONENT_NAME;
